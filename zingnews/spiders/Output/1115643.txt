@@ -1,0 +1,52 @@
+LIÊN KẾT: https://zingnews.vn/vi-sao-nen-dung-xet-nghiem-nhanh-covid-19-post1115643.html
+CHUYÊN MỤC: Sức khỏe
+TIÊU ĐỀ: Vì sao nên dừng xét nghiệm nhanh Covid-19?
+THỜI GIAN: 10:43 06/08/2020
+TAGS: test nhanh, xét nghiệm nhanh, bộ kit, 
+TÓM TẮT: GS Nguyễn Anh Trí khẳng định hiện tại, nhiệm vụ số một là tìm virus SARS-CoV-2 trong cơ thể người nghi nhiễm. Xét nghiệm nhanh không đáp ứng được yêu cầu này.
+NỘI DUNG: 
+Tại buổi giao ban trực tuyến với lãnh đạo sở y tế 63 tỉnh, thành phố, sáng 2/8, quyền Bộ trưởng Y tế Nguyễn Thanh Long khẳng định Trung ương không cấp kit test nhanh (xét nghiệm máu tìm kháng thể), khuyến khích làm xét nghiệm rRT-PCR.
+Sau chỉ đạo này, Sở Y tế tỉnh Quảng Nam cũng dừng sử dụng phương pháp xét nghiệm nhanh. Thứ trưởng Bộ Y tế Nguyễn Trường Sơn cho rằng sử dụng kit test nhanh tìm kháng thể tại thời điểm này ở Quảng Nam chưa phù hợp vì tình trạng âm tính/dương tính giả.
+Tại Hà Nội, chiều 5/8, Chủ tịch UBND TP Nguyễn Đức Chung cũng yêu cầu xét nghiệm rRT-PCR với tất cả người ở Đà Nẵng trở về từ 15/7 dù họ đã có kết quả âm tính khi test nhanh. BN714 ở Hà Nội cũng là trường hợp từng âm tính khi thực hiện phương pháp xét nghiệm tìm kháng thể.
+đã có cuộc trao đổi với GS.TS Nguyễn Anh Trí, Chủ tịch Hội Huyết học - Truyền máu Việt Nam, Đại biểu Quốc hội khóa XIV, về vấn đề này.
+- Để lựa chọn phương pháp xét nghiệm phải tùy vào mục đích. Để phát hiện người đang mang virus SARS-CoV-2, chúng ta phải sử dụng kỹ thuật Realtime RT-PCR (viết tắt là rRT-PCR). Đây là xét nghiệm phản ứng chuỗi polymerase sao chép ngược thời gian thực, theo nguyên lý khuếch đại gene.
+Còn để phát hiện kháng thể - chất cơ thể sinh ra để chống lại virus sau khi bị chúng tác động - test nhanh là loại được dùng. Khi xét nghiệm nhanh, kết quả dương tính chứng tỏ người đó trước đây (7 ngày trở lên) từng nhiễm virus SARS-CoV-2 hoặc một loại kháng nguyên tương tự và hiện tại có thể còn. Kết quả âm tính sẽ chứng tỏ người đó chưa bị nhiễm SARS-CoV-2. Một người nhiễm virus nhưng còn quá sớm để cơ thể sinh ra kháng thể cũng cho kết quả âm tính.
+Với dịch Covid-19 đang bùng phát, nhiệm vụ số một là phải phát hiện kháng nguyên, tác nhân gây bệnh, tức virus SARS-CoV-2 ở những người đi về từ Đà Nẵng. Mục đích là cách ly, ngăn mầm bệnh lây lan ra cộng đồng. Vì thế, kỹ thuật cần dùng duy nhất là rRT-PCR. Chúng ta không thể sử dụng test nhanh để đi tìm virus này.
+GS.TS Nguyễn Anh Trí, nguyên Viện trưởng Viện Huyết học và Truyền máu Trung ương. Ảnh:
+- Như vậy, loại xét nghiệm nhanh mà một số địa phương đang triển khai không có giá trị?
+- Một số tỉnh, thành đang sử dụng test nhanh (tìm kháng thể) để sàng lọc người từ Đà Nẵng về là không đúng và phản tác dụng.
+Trước hết, mục đích xét nghiệm cho những người từ vùng dịch về hoặc có tiếp xúc ca bệnh là phát hiện SARS-CoV-2. Vì vậy, việc sử dụng xét nghiệm nhanh không đúng.
+Khi chỉ định xét nghiệm sớm, kết quả sẽ luôn âm tính. Bởi kháng thể xuất hiện muộn, thường sau 7-15 ngày kể từ khi bị nhiễm. Xét nghiệm nhanh sớm gây lãng phí. Khi kết quả âm tính, chúng ta không thể biết người đó có còn virus trong cơ thể hay không. Để có câu trả lời, họ cần được xét nghiệm lại bằng kỹ thuật rRT-PCR.
+Một người mới nhiễm virus SARS-CoV-2, còn quá sớm để cơ thể sinh ra kháng thể, sẽ cho kết quả âm tính khi sử dụng phương pháp test nhanh.
+Trong trường hợp kết quả dương tính, tình trạng “vồ hụt” sẽ xảy ra. Lúc này, người đó chưa chắc còn virus trong cơ thể. Thậm chí, khi người này từng nhiễm virus SARS-CoV-2, hậu quả là virus đã lây lan.
+Nguy hiểm nhất, người nhận được kết quả âm tính qua test nhanh sẽ cho rằng mình không bị nhiễm virus. Họ có thể chủ quan, dẫn đến nguy cơ nhiễm virus hoặc lây lan virus cho người khác.
+Trong tình hình hiện nay, để phát hiện virus SARS-CoV-2, chúng ta không nên dùng xét nghiệm nhanh. Nếu dùng sẽ bị lạc đường. Vừa qua, tôi thấy một số động thái đáng mừng khi nhiều nhà khoa học lên tiếng về điều này.
+Đặc biệt, Bộ Y tế quyết định không cấp thêm kit test nhanh cho bất kỳ tỉnh nào. Lãnh đạo Bộ Y tế đã hiểu rõ phương pháp này không có ý nghĩa trong sàng lọc người đang mang virus từ vùng dịch trở về. Tôi mong các tỉnh, thành thực hiện theo ý kiến chỉ đạo của Bộ Y tế.
+Một số tỉnh, thành đang sử dụng test nhanh để sàng lọc người từ Đà Nẵng về là không đúng và không cần thiết. Ảnh:
+.
+- Chúng ta nên dùng xét nghiệm nhanh trong trường hợp nào?
+- Xét nghiệm nhanh để tìm kháng thể được sử dụng trong một số hoàn cảnh. Thứ nhất, loại xét nghiệm này được thực hiện để theo dõi kết quả điều trị ở những người nhiễm SARS-CoV-2. Việc đánh giá lượng kháng thể của bệnh nhân rất quan trọng để bác sĩ điều chỉnh thuốc, thay đổi phác đồ điều trị phù hợp.
+Thứ hai, xét nghiệm nhanh nhằm điều tra dịch tễ học trong cộng đồng. Mục đích là kiểm tra người dân vùng đó có bị nhiễm virus trước đây không. Đây là việc cần thiết để biết được nguy cơ nhiễm và lây lan ở các địa bàn sinh sống, đối tượng dân cư, mùa vụ. Từ đó, các cơ quan chức năng sẽ xây dựng chiến lược phòng dịch cho cả vùng hoặc quốc gia.
+Hiện nay, Phó thủ tướng Vũ Đức Đam chuẩn bị cho tiến hành biện pháp này ở khu vực Đà Nẵng. Tôi cho rằng đã đến lúc chúng ta làm việc này, nhằm xây dựng một chiến lược phòng dịch Covid-19 trung và dài hạn.
+- Những người có nguy cơ nhiễm SARS-CoV-2 cao, tốt nhất nên xét nghiệm tìm kháng nguyên (rRT-PCR). Vậy họ nên đến đâu để thực hiện và có mất chi phí hay không?
+- Hiện nay, Việt Nam có khoảng 120 cơ sở được cấp giấy phép làm kỹ thuật này bao gồm CDC ở hầu hết tỉnh, Viện Vệ sinh Dịch tễ Trung ương, Viện Pasteur TP.HCM và các khu vực, một số bệnh viện công và 3 bệnh viện tư nhân (gồm Bệnh viện Đa khoa Medlatec, Bệnh viện Việt - Pháp TP.HCM và Bệnh viện Đa khoa Thanh Vũ Medic Bạc Liêu).
+Kỹ thuật này được bảo hiểm y tế thanh toán với chi phí 734.000 đồng/mẫu cho các đối tượng có thẻ bảo hiểm y tế. Đồng thời, những trường hợp này phải nằm trong 3 nhóm có chỉ định xét nghiệm gồm người cách ly tập trung, bệnh nhân đang điều trị Covid-19 và người khám sàng lọc.
+- Những khó khăn khi triển khai xét nghiệm rRT-PCR để phát hiện người đang mang virus SARS-CoV-2 trên diện rộng? Biện pháp khắc phục?
+- Khó khăn chủ yếu là thời gian làm lâu, thường phải mất khoảng 3-4 tiếng, giá xét nghiệm còn khá cao.
+Để giải quyết những bất cập này, chúng ta nên thực hiện trộn 4 mẫu bệnh phẩm để làm xét nghiệm nhóm. Nếu dương tính, nhân viên y tế sẽ tách ra làm 4 mẫu riêng. Với cách làm này, khó khăn trên sẽ được khắc phục. Nhiều nước trên thế giới như Mỹ, Israel, Đức, Singapore,... đã bắt đầu làm theo cách trộn mẫu này.
+- GS nhận định như thế nào về tình hình dịch hiện nay?
+- Dịch Covid-19 tại Đà Nẵng là vòng quay bùng phát lần thứ 2 tại Việt Nam. Phó thủ tướng Vũ Đức Đam đã nói: “Nước xung quanh quá to, trong khi chúng ta là vùng trũng”. Việc bùng phát ở Việt Nam chắc chắn sẽ xảy ra, chúng ta không nên quá ngạc nhiên.
+Tuy nhiên, nhiều lý do khiến chúng ta lo ngại về đợt bùng phát này. Dịch Covid-19 xảy ra ở thành phố du lịch lớn. Ngoài ra, một số đối tượng đã cấu kết đưa người nước ngoài vào nước ta, khó kiểm soát được việc nhiễm virus gây bệnh Covid-19.
+Dịch bùng phát bởi một chủng virus SARS-CoV-2 ngoại lai đã biến thể, lây lan nhanh hơn trước nhiều. Nguy hiểm là xảy ra trước hết và nhiều nhất trong các bệnh viện, nơi có nhiều bệnh nhân nặng.
+Lãnh đạo Bộ Y tế đã hiểu rõ phương pháp xét nghiệm nhanh không có ý nghĩa trong sàng lọc người đang mang virus từ vùng dịch trở về. Tôi mong các tỉnh, thành thực hiện theo ý kiến chỉ đạo của Bộ Y tế.
+Vừa qua, khi những người đi du lịch từ Đà Nẵng trở về các địa phương, việc cách ly, phân luồng, làm xét nghiệm đã có một phần chưa kịp thời và đúng cách. Họ đã trở về nhà và cộng đồng nên việc kiểm soát dịch khó khăn hơn. Thực tế, nhiều tỉnh thành tiếp tục công bố trường hợp dương tính với SARS-CoV-2. Đó chính là hậu quả của việc chậm trễ ban đầu này.
+Có thể nói dịch đang bùng phát có trở nên “vỡ trận” hay không phụ thuộc vào chính thái độ, sự trung thực, đồng lòng quyết tâm chống dịch của mỗi người dân ngay trong giai đoạn này.
+- Đợt dịch bùng phát này không dễ chấm dứt vì sự lan tỏa trong cộng đồng đã khá rộng. Do một số tỉnh, thành phố có phản ứng chưa kịp thời trong việc cách ly người từ Đà Nẵng về, Việt Nam sẽ có thêm các địa phương ghi nhận người nhiễm. Tôi cho rằng cần khoảng 10-20 ngày, sớm hơn là một tuần tới, mới khẳng định được tình hình dịch bệnh lan rộng đến đâu.
+Tuy nhiên, tôi thấy Chính phủ, Ban Chỉ đạo, Bộ Y tế đã làm hết trách nhiệm của mình, chỉ đạo rất đúng, điều hành linh hoạt.
+Quyền Bộ trưởng Y tế Nguyễn Thanh Long khẳng định Trung ương không cấp thêm test nhanh, khuyến khích làm xét nghiệm rRT-PCR. Ảnh minh họa:
+- GS khuyến cáo người dân cần làm gì trong thời điểm này?
+- Thứ nhất, người dân phải thực hiện thật tốt những quy định của Bộ Y tế cũng như Ban Chỉ đạo phòng, chống dịch Covid-19. Trong đó, ưu tiên số một là phòng bệnh. Các việc làm để phòng bệnh như rửa tay, đeo khẩu trang, tránh tụ tập, giãn cách xã hội… có hiệu quả rất cao.
+Thứ hai, thực hiện cách ly xã hội triệt để, nghiêm túc đối với những người đi qua vùng dịch trong thời gian có nguy cơ lây lan, đặc biệt là người có xét nghiệm dương tính với SARS-CoV-2. Điều này đòi hỏi ý thức trách nhiệm của mỗi người dân trong cộng đồng nhiều hơn nữa.
+Thứ ba, phải tích cực tiến hành xét nghiệm để phát hiện người nhiễm SARS-CoV-2. Tổ chức Y tế Thế giới (WHO) đã khuyến cáo để ngăn chặn sự lây lan của dịch cần: “Xét nghiệm, xét nghiệm và xét nghiệm”. Tuy nhiên, chúng ta phải làm đúng kỹ thuật theo mục đích đã đề ra, tuân thủ đúng hướng dẫn của Bộ Y tế.
+Chúng ta đang đi vào đợt chống dịch Covid-19 với tất cả kinh nghiệm từ trước, mọi nguồn sức mạnh vật chất và con người đang có, sự quyết tâm cao độ, tinh thần đoàn kết đồng lòng của cả dân tộc. Tôi có niềm tin Việt Nam sẽ dập tắp được đợt bùng phát này trong một thời gian không lâu.
+Tiến sĩ dịch tễ học Maria Van Kerkhove của WHO đánh giá tỷ lệ này khá cao, các quốc gia trên thế giới cần chuẩn bị cho trận chiến lớn.

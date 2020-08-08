@@ -1,0 +1,17 @@
+LIÊN KẾT: https://zingnews.vn/vingroup-dat-chuan-fido2-thu-hai-cho-may-chu-xac-thuc-manh-post1116340.html
+CHUYÊN MỤC: Công nghệ
+TIÊU ĐỀ: Vingroup đạt chuẩn FIDO2 thứ hai cho máy chủ xác thực mạnh
+THỜI GIAN: 16:00 06/08/2020
+TAGS: 
+TÓM TẮT: Công ty An ninh mạng VinCSS (thuộc Vingroup) công bố đạt chứng chỉ FIDO2 của “Liên minh Xác thực trực tuyến thế giới” (FIDO Alliance)cho máy chủ xác thực mạnh VinCSS FIDO2 Server.
+NỘI DUNG: 
+VinCSS FIDO2 Server cung cấp dịch vụ chuyển đổi xác thực mạnh trọn vẹn cả về hạ tầng và công nghệ, đặc biệt cho doanh nghiệp tài chính - ngân hàng, công nghệ tài chính, ví điện tử và các siêu ứng dụng.
+Máy chủ xác thực mạnh FIDO2 là điều kiện tiên quyết để triển khai xác thực mạnh theo chuẩn FIDO2 cho các ứng dụng đặc thù của doanh nghiệp. VinCSS FIDO2 Sever có khả năng tùy biến, tính ứng dụng cao, là lựa chọn phù hợp cho doanh nghiệp muốn triển khai hệ giải pháp xác thực mạnh nội bộ. Các doanh nghiệp sẽ vận hành hệ thống xác thực an toàn, dễ dàng và hiệu quả hơn, đặc biệt để đối phó với đánh cắp dữ liệu.
+VinCSS là công ty đầu tiên tại Việt Nam phát triển máy chủ xác thực mạnh đạt chuẩn FIDO2.
+Trước đó, đầu năm 2020, công ty cũng đạt chứng chỉ FIDO2 cho sản phẩm khoá xác thực VinCSS FIDO2 Authenticator, do FIDO Alliance chứng nhận. Kết quả này đưa VinCSS đứng cùng hàng ngũ các công ty, tập đoàn công nghệ lớn có sản phẩm khoá xác thực đạt chứng nhận FIDO2.
+Sau khóa xác thực và máy chủ xác thực mạnh, VinCSS sẽ tiếp tục nghiên cứu phát triển gói SDK, nhằm hỗ trợ phát triển xác thực mạnh cho cộng đồng công nghệ. SDK (Software Development Kit) là tập hợp thư viện các mã lệnh nền tảng được lập trình sẵn, giúp nhà phát triển có thể tích hợp thêm vào phần mềm/ứng dụng của mình. Với SDK được phát triển và cung cấp bởi VinCSS, nhà cung cấp dịch vụ nền tảng tại Việt Nam có thể nhanh chóng tiếp cận xu hướng công nghệ xác thực mạnh, chủ động nâng cao độ bảo mật cho chính sản phẩm dịch vụ của mình trong tương lai gần.
+VinCSS FIDO2 Sever có khả năng tùy biến, tính ứng dụng cao.
+Trong lộ trình chinh phục hệ sinh thái xác thực mạnh, VinCSS sẽ tiếp tục nghiên cứu và ra mắt ứng dụng xác thực (application) đạt chuẩn FIDO2 chạy trên hệ điều hành Android và iOS để tích hợp tính năng sinh trắc học vào xác thực. Giải pháp mang đến cho người sử dụng cấp độ bảo mật cao hơn, trải nghiệm tốt hơn, cùng nhiều sự chọn lựa đa dạng với mức chi phí cạnh tranh.
+Lần thứ 2 đạt chứng chỉ do
+chứng nhận giúp Vingroup trở thành 1 trong 13 công ty trên thế giới vừa sở hữu khóa xác thực mạnh, vừa sở hữu máy chủ xác thực (server), tiến đến hình thành hệ sinh thái toàn diện về xác thực mạnh. Sự kiện không chỉ cho thấy VinCSS dần làm chủ hệ sinh thái xác thực mạnh theo chuẩn FIDO2, mà còn khẳng định sự hội nhập với xu hướng công nghệ thế giới của tập đoàn Vingroup.
+Chuẩn xác thực FIDO2 là phương thức xác thực người dùng an toàn nhất hiện nay. FIDO2 hướng đến việc loại bỏ khó khăn phải ghi nhớ quá nhiều mật khẩu cho người dùng cuối, phòng tránh nguy cơ bị tấn công giả mạo, tấn công mạng chiếm tài khoản. FIDO2 đã được hỗ trợ trên tất cả trình duyệt phổ biến, sản phẩm và dịch vụ của các nhà cung cấp lớn.

@@ -1,0 +1,19 @@
+LIÊN KẾT: https://zingnews.vn/may-tinh-da-co-the-tim-ra-mat-nguoi-tu-nhung-net-ve-don-gian-post1096612.html
+CHUYÊN MỤC: Công nghệ
+TIÊU ĐỀ: Máy tính đã có thể tìm ra mặt người từ những nét vẽ đơn giản
+THỜI GIAN: 11:04 17/06/2020
+TAGS: AI, Trí tuệ nhân tạo, deepfake, hongkong, 
+TÓM TẮT: Sử dụng dữ liệu từ 17.000 khuôn mặt trên Internet, các nhà khoa học đã dạy AI tìm ra được chính xác khuôn mặt nhờ những nét vẽ cơ bản.
+NỘI DUNG: 
+Theo
+nhóm nghiên cứu tại Học viện khoa học Bắc Kinh, Trung Quốc và Đại học
+đã phát triển thành công thuật toán giúp biến một phác thảo với nét vẽ cơ bản thành chân dung người thật với đầy đủ các chi tiết trên khuôn mặt.
+Các nhà nghiên cứu cho biết họ đã sử dụng khuôn mặt của 17.000 nhân vật nổi tiếng trên
+làm nguồn dữ liệu để dạy cho trí tuệ nhân tạo AI.
+Nếu tiếp tục cập nhật thêm nguồn dữ liệu khuôn mặt cho AI, thuật toán này có thể sẽ được sử dụng trong các công tác điều tra nghi phạm, hoặc ứng dụng vào ngành công nghiệp phim hoạt hình, trò chơi điện tử...
+Phân tách thành điểm ảnh và nối những điểm ảnh lại thành đường dài là cách nhóm nghiên cứu đào tạo cho AI. Ảnh:
+Nhóm nghiên cứu xác định một khuôn mặt sẽ bao gồm 5 khu vực quan trọng chính: 2 mắt, mũi, miệng và đường tròn mặt cùng với tóc.
+Từng khu vực trên khuôn mặt sẽ được kỹ thuật số hoá thành điểm ảnh. Nhiều điểm ảnh tạo sẽ tạo thành các đường nối khác nhau. Sử dụng cách tiếp cận này, khi có những đường nối vẽ khuôn mặt, AI sẽ tìm ngược lại đúng khuôn mặt bằng cách truy xuất theo điểm ảnh.
+Hiện tại, vì dữ liệu nhóm nghiên cứu có được toàn là người da trắng đến từ các quốc gia như Mỹ, Anh, nên hình ảnh mà AI vẽ được đều cho ra kết quả là người da trắng. Yếu tố màu sắc như màu da, màu mắt, màu tóc, hình xăm sẽ được nhóm nghiên cứu tiếp tục phát triển thêm.
+"Việc thu thập cơ sở dữ liệu về khuôn mặt của người dùng không phải chuyện dễ dàng, chúng tôi sẽ tập trung làm việc để dạy AI phân biệt màu da trong thời gian tới", Hongbo Fu, thành viên của nhóm nghiên cứu nói về tương lai của dự án.
+Tamagotchi là sản phẩm rất đặc biệt khi thành công ở cả Nhật Bản và Mỹ. Tại Nhật, nuôi thú cưng thậm chí đã trở thành một nét văn hóa.

@@ -1,0 +1,28 @@
+LIÊN KẾT: https://zingnews.vn/chiec-may-tinh-lanh-nhat-the-gioi-post1116964.html
+CHUYÊN MỤC: Công nghệ
+TIÊU ĐỀ: Máy tính lượng tử lạnh nhất thế giới này sẽ đánh bại Google
+THỜI GIAN: 07:37 08/08/2020
+TAGS: Google, 
+TÓM TẮT: Loại máy tính lượng tử siêu lạnh này sẽ đánh bại các dự án mà Google và IBM đang nghiên cứu.
+NỘI DUNG: 
+ColdQuanta, công ty có trụ sở tại Mỹ đã hợp tác với Cơ quan Chỉ đạo Dự án Nghiên cứu Quốc phòng Tiên tiến (DARPA) để tạo ra máy tính lượng tử có khả năng định vị máy bay chiến đấu trong trường hợp hệ thống radar của quân đội bị phá hủy một phần.
+Theo
+, các nguyên tử trong máy tính có thể tính toán với tốc độ rất nhanh sau khi tập hợp dữ liệu dưới dạng qubit (quantum bit) - đơn vị này trong máy tính lượng tử, giống như bit ở máy tính cổ điển.
+Máy tính lượng tử đang ở giai đoạn phát triển với nhiều hứa hẹn về lợi ích. Ảnh:
+.
+Để làm được điều này, các nguyên tử trong máy tính phải ở trạng thái cực kỳ lạnh. Nói cách khác, đây là chiếc máy tính lạnh nhất thế giới.
+Dù xuất hiện khá nhiều trong phim khoa học viễn tưởng, việc phát triển máy tính lượng tử vẫn trong giai đoạn sơ khai. Các công ty chỉ mới bắt đầu tạo ra hệ thống lượng tử, với lời hứa rằng chúng sẽ vượt trội hơn máy tính cổ điển.
+“Nhiệm vụ của chúng tôi trong 40 tháng tới là tạo ra cỗ máy có hàng nghìn qubit để giải quyết các tình huống an ninh quốc phòng”, Bo Ewald, Giám đốc Điều hành ColdQuanta chia sẻ.
+Bên cạnh quân sự, máy tính lượng tử có thể được ứng dụng trong nhiều lĩnh vực như điều chế thuốc, phân tích chiến lược đầu tư, bẻ khóa và giải quyết các vấn đề trong lĩnh vực vận tải.
+Có hàng triệu cách giải quyết những vấn đề trên và máy tính lượng tử sẽ đưa ra giải pháp phù hợp nhất trong tích tắc. Theo Ewald, ngay cả các siêu máy tính mạnh nhất hiện nay cũng phải mất hàng giờ, hàng ngày để tính toán.
+Các hãng công nghệ như IBM và
+cũng đang tham gia chế tạo máy tính lượng tử siêu dẫn (superconducting quantum computer). Tuy cũng là lượng tử nhưng chúng sử dụng nguyên tử tích điện (ion) thay vì các nguyên tử trung tính cực lạnh.
+Máy tính lượng tử của ColdQuanta sử dụng nguyên tử được đặt ở nhiệt độ cực lạnh. Ảnh:
+.
+Nếu các nguyên tử ion trong máy tính lượng tử siêu dẫn của Google hay IBM được đặt ở 0,001 độ kelvin thì nguyên tử trung hòa trong máy tính của ColdQuanta được làm lạnh ở 0,000001 độ kelvin. Nhiệt độ này lạnh hơn bất cứ thứ gì lạnh nhất mà chúng ta từng biết. Để dễ hình dung, trạng thái nhiệt độ không tuyệt đối tức 0 độ kelvin tương đương -273,15 độ C.
+Andrew Daley, giáo sư Đại học Strathclyde, Anh nói rằng nguyên tử càng lạnh thì càng dễ điều khiển. Các nhà khoa học có thể đặt nguyên tử theo hình dạng 2 hoặc 3 chiều, sắp xếp gần nhau hơn trong máy tính.
+Hình dạng, vị trí các nguyên tử rất quan trọng bởi có thêm một nguyên tử đồng nghĩa khả năng xử lý của máy được tăng gấp đôi.
+Pasqal, startup máy tính lượng tử của Pháp cũng đang phát triển hệ thống mẫu dựa trên ý tưởng của ColdQuanta. Hệ thống của Pasqal sẽ dành cho các tập đoàn năng lượng nhằm tính toán thời gian sạc xe điện hiệu quả. Mục tiêu của việc này là giúp giảm thời gian cần để sạc điện cho tất cả xe, trong khi đảm bảo một số phương tiện quan trọng được ưu tiên.
+Hiện tại, những lợi ích của máy tính lượng tử vẫn chỉ dừng ở mức hứa hẹn. Tuy nhiên, con người hoàn toàn có thể chứng kiến lợi ích mà máy tính lượng tử mang đến trong vài năm tới nhờ các hệ thống của IBM, Google, ColdQuanta và một số công ty khác.
+New York Times đưa tin William English, người đồng phát minh ra chuột máy tính đã qua đời ngày 26/7 ở tuổi 91 do suy hô hấp.
+Sử dụng dữ liệu từ 17.000 khuôn mặt trên Internet, các nhà khoa học đã dạy AI tìm ra được chính xác khuôn mặt nhờ những nét vẽ cơ bản.

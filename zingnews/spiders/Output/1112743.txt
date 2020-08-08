@@ -1,0 +1,18 @@
+LIÊN KẾT: https://zingnews.vn/bao-mat-luong-tu-se-la-xu-huong-cua-smartphone-trong-tuong-lai-post1112743.html
+CHUYÊN MỤC: Công nghệ
+TIÊU ĐỀ: Bảo mật lượng tử sẽ là xu hướng của smartphone trong tương lai?
+THỜI GIAN: 12:00 29/07/2020
+TAGS: Vsmart, Điện thoại Vsmart, 
+TÓM TẮT: Theo ID Quantique, công nghệ chip lượng tử mới sẽ giúp đảm bảo an toàn dữ liệu cho người dùng, ngay cả khi điện thoại lọt vào tay hacker.
+NỘI DUNG: 
+Trong bất cứ thời đại nào, thông tin cũng cần được mã hoá để đảm bảo tính bí mật. Mã hoá đơn giản là việc chuyển đổi thông tin dễ hiểu thành một dạng thức khó hiểu hơn. Lịch sử nhân loại cho thấy, con người đã kết hợp đủ mọi hình thái biểu đạt ngôn ngữ, phi ngôn ngữ, âm nhạc, hình ảnh, toán học, vật lý học... để làm quá trình mã hoá ngày càng trở nên phức tạp và khó đoán biết.
+Phương pháp mã hoá truyền thống của các thiết bị điện tử, công nghệ được xây dựng trên các quy trình toán học phức tạp, nhằm tạo nên các dòng mã bảo mật ngẫu nhiên khó đoán biết. Tuy nhiên, việc bảo mật "mềm" như vậy về lý thuyết hoàn toàn có thể bị phá vỡ bởi các hacker với một chiếc máy tính thông thường.
+Trong khi đó, phương pháp bảo mật phần cứng dựa trên các quy tắc vật lý lượng tử sẽ tạo các dòng mã bảo mật là những chuỗi số lượng tử thực sự ngẫu nhiên, không thể đoán định và phá vỡ. Các mẫu điện thoại thông minh được tích hợp chip lượng tử sẽ được đảm bảo an toàn dữ liệu gần như tuyệt đối, ngay cả khi lọt vào tay hacker.
+Vsmart Aris 5G là một trong những smartphone đầu tiên trang bị chip bảo mật lượng tử Quantis QRNG.
+Năm 2018, SK Telecom đã đầu tư
+vào công ty con ID Quantique, đưa công ty này thành đơn vị hàng đầu thế giới về công nghệ lượng tử. Mới đây, giới công nghệ thế giới  đã chứng kiến việc 3 mẫu điện thoại 5G, trong đó có Vsmart Aris 5G, được tích hợp thành công chip lượng tử Quantis QRNG (Quantum Random Number Generator) của ID Quantique (IDQ).
+Bình luận về sự kiện 3 mẫu điện thoại 5G đầu tiên dùng bảo mật lượng tử đều thuộc về các tập đoàn công nghệ châu Á, tờ
+cho rằng việc sử dụng Quantis QRNG đã đưa các thương hiệu này lên một tầm cao mới về công nghệ bảo mật phần cứng, và đó là một bước tiến  đáng hoan nghênh.
+Các thành tựu về công nghệ lượng tử của các tập đoàn hàng đầu thế giới cho thấy công nghệ lượng tử không còn là khoa học viễn tưởng, mà đang hiện hữu và sẽ phát triển mạnh trong vòng 5 năm tới. Nhận định về tương lai của thế giới lượng tử, nhà bình luận Arthur Herman - người nằm trong danh sách đề cử cuối cùng của Pulitzer Prize - viết trên tờ
+“Công nghệ lượng tử định hình tương lai của thế giới và phải trở thành ưu tiên quốc gia".
+Thông qua sự kiện ra mắt smartphone Vsmart Aris 5G sử dụng chip lượng tử Quatis QRND, Vingroup cho thấy mình đang chủ động tham gia vào “cuộc chơi” lượng tử toàn cầu này.

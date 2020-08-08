@@ -1,0 +1,28 @@
+LIÊN KẾT: https://zingnews.vn/youtube-lam-ngo-khi-hang-loat-kenh-lon-bi-hack-de-lua-dao-post1116585.html
+CHUYÊN MỤC: Công nghệ
+TIÊU ĐỀ: YouTube làm ngơ khi hàng loạt kênh lớn bị hack để lừa đảo
+THỜI GIAN: 14:49 08/08/2020
+TAGS: Bitcoin, YouTube, Tiền mã hóa, 
+TÓM TẮT: Hàng loạt kênh YouTube bị hacker chiếm quyền để livestream lừa đảo Bitcoin. Thế nhưng, YouTube chỉ biết làm ngơ khi chủ kênh gửi yêu cầu hỗ trợ.
+NỘI DUNG: 
+Từ đầu tháng 8, một loạt video phát trực tiếp trên
+với những tựa đề hấp dẫn. Khi bấm vào xem, phần lớn video hiển thị các thông điệp kêu gọi gửi
+cho một địa chỉ ví điện tử, sau đó sẽ được nhận lại gấp đôi lượng Bitcoin.
+Theo chuyên gia công nghệ Rene Ritchie của
+, những video này có thể đã dùng máy ảo để đẩy lượng xem lên cao, qua đó khiến cho
+đề xuất tới người xem.
+Một kênh YouTube bị hack để phát video kêu gọi khán giả ủng hộ bằng Bitcoin. Ảnh:
+Jon Prosser, người sở hữu kênh Front Page Tech cho biết tài khoản anh đã bị hack, kể cả lớp xác thực hai yếu tố cũng bị vượt qua.
+Hacker đã kiếm được số Bitcoin giá trị khoảng
+từ kênh của Prosser. Người này cũng cho biết mọi video trên kênh của anh đã bị xóa và chỉ vài giờ sau kênh cũng đã biến mất.
+Khi liên hệ với YouTube, Prosser chỉ được hướng dẫn điền thông tin vào một trang hỗ trợ. Tuy nhiên, tài khoản hỗ trợ cũng cho biết trường hợp này "phải mất vài tuần mới có các bước giải quyết tiếp theo".
+Jon Prosser cho biết mặc dù YouTube đã ghi nhận trường hợp của anh và hứa giải quyết, video livestream lừa Bitcoin vẫn tiếp tục phát.
+"Những hacker này đang ăn cướp hàng nghìn USD, trên nền tảng của YouTube. Thế nhưng, YouTube lại không làm gì được. Ít nhất Twitter còn ngừng vụ hack lại khi nó đang diễn ra", chủ kênh này bức xúc.
+Prosser không phải YouTuber duy nhất bị mất kênh. Theo chuyên gia eSports Rod Breslau, nhiều kênh YouTube đã bị hack và đổi tên thành "Elon Musk NASA" hay "SpaceX NASA".
+Hàng loạt kênh YouTube lớn bị hack, đổi tên và phát trực tiếp để lừa đảo Bitcoin. Ảnh:
+Breslau nhận ra những dấu hiệu bất thường từ ngày 3/8. Tuy nhiên, những vụ hack có thể đã diễn ra nhiều tháng.
+"Khi nói chuyện với các YouTuber khác, tôi nhận thấy việc lấy cắp tài khoản để lừa Bitcoin đã diễn ra nhiều tháng nay, sớm hơn nhiều so với vụ hack Twitter. Đến nay, YouTube vẫn không có động thái gì để giải quyết và còn khiến những người chủ kênh phải chờ hàng tuần mới có thể lấy lại tài khoản", ông Breslau viết trên Twitter.
+Theo MarcoStyle, một YouTuber từng bị hack kênh vào cuối năm 2019, thủ đoạn hack này đã tồn tại từ lâu. MarcoStyle cho biết kênh của anh bị xâm nhập sau khi anh bị lừa bấm vào một đường link trong email. Sau khi chiếm được tài khoản điều khiển, hacker đã đổi thành kênh của thương hiệu, cho phép nhiều tài khoản cùng quản lý.
+MarcoStyle cho rằng phương pháp hack này có thể hạn chế nếu YouTube áp dụng xác thực hai yếu tố mỗi lần đăng nhập hoặc tải video lên.
+"Đúng là không thế bắt YouTube khắc phục ngay sau khi tôi mắc lỗi. Tuy nhiên, tôi cũng ước giá mà YouTube có thêm nhiều lựa chọn bảo mật hơn", MarcoStyle nói trong video kể lại vụ hack.
+Anh em nhà Stokes có khả năng phải lĩnh mức án 4 năm tù vì một video đóng giả làm cướp ngân hàng đăng trên YouTube.
